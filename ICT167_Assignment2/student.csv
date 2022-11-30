@@ -1,0 +1,4 @@
+Type=R,FirstName=steve,LastName=williams,StudentID=1234567,ProposalMark=50,FinalDissertationMark=85
+Type=R,FirstName=hello,LastName=world,StudentID=3,ProposalMark=50,FinalDissertationMark=85
+Type=C,FirstName=bobby,LastName=smith,StudentID=34112,UnitID=ICT455,UnitLevel=1,Assignment1Mark=70,Assignment2Mark=50,ExamMark=70
+Type=C,FirstName=john,LastName=smith,StudentID=1,UnitID=ICT167,UnitLevel=1,Assignment1Mark=90,Assignment2Mark=80,ExamMark=70
